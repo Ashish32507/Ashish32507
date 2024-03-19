@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
+![MasterHead]([https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.boardinfinity.com%2Fblog%2Fmern-stack-what-is-it%2F&psig=AOvVaw3SyO8BUU7pMLaP0eXP12-L&ust=1710954091890000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDM3-jmgIUDFQAAAAAdAAAAABAE))
 <h1 align="center">Hi 👋, I'm Ashish Kumar Yadav</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://d1ivubrj2a21dq.cloudfront.net/wp-content/uploads/2023/01/02152015/front-end-development.gif">
