@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://d1ivubrj2a21dq.cloudfront.net/wp-content/uploads/2023/01/02152015/front-end-development.gif">
 
-<p align="left"> <img src="" /> </p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/103557142?v=4" /> </p>
 
 - 🌱 I’m currently learning **Angular,React**
 
