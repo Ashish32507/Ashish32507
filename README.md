@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://d1ivubrj2a21dq.cloudfront.net/wp-content/uploads/2023/01/02152015/front-end-development.gif">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=ashish32507&label=Profile%20views&color=0e75b6&style=flat" alt="ashish32507](https://www.google.com/imgres?q=mern%20stack%20developer&imgurl=https%3A%2F%2Fdevtechnosys.com%2Finsights%2Fwp-content%2Fuploads%2F2022%2F12%2FMern-Stack.png&imgrefurl=https%3A%2F%2Fdevtechnosys.com%2Finsights%2Fmern-stack%2F&docid=5wCGNMugUMn7XM&tbnid=yMagQkSvg0aubM&vet=12ahUKEwjaqaSY2_-GAxVNTGwGHU8UDpQQM3oECHwQAA..i&w=678&h=370&hcb=2&ved=2ahUKEwjaqaSY2_-GAxVNTGwGHU8UDpQQM3oECHwQAA)" /> </p>
+<p align="left"> <img src="" /> </p>
 
 - 🌱 I’m currently learning **Angular,React**
 
